@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/zy/Daos/AccountDaoImp.java=UTF-8
+encoding//src/com/zy/Daos/BusinessDaoImp.java=UTF-8
+encoding//src/com/zy/Daos/TicketsDaoImp.java=UTF-8
+encoding//src/com/zy/Daos/TokenDaoImp.java=UTF-8
+encoding//src/com/zy/Daos/UserDaoImp.java=UTF-8
+encoding//src/com/zy/Daos/base/BaseDBFactor.java=UTF-8
